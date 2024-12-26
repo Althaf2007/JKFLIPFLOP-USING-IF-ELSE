@@ -58,7 +58,8 @@ module jk_ff (j, k, clk, rst, q);
 endmodule
 ```
 
-Developed by:K.Mohamed Althaf 
+Developed by:K.Mohamed Althaf
+
 RegisterNumber:24005994
 */
 
@@ -71,4 +72,5 @@ RegisterNumber:24005994
 ![jk ou](https://github.com/user-attachments/assets/277feba5-93ff-4533-a783-7a1af7f40db7)
 
 **RESULTS**
+
 Thus the JK flipflop using verilog and validating their functionality using their functional tables is implemented
