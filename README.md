@@ -77,7 +77,7 @@ RegisterNumber:24005994
 
 ![jk rtl](https://github.com/user-attachments/assets/66dab58f-44c5-40c7-a751-741b2da0670f)
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIAGRAMS FOR FLIP FLOPS**
 
 ![jk ou](https://github.com/user-attachments/assets/277feba5-93ff-4533-a783-7a1af7f40db7)
 
